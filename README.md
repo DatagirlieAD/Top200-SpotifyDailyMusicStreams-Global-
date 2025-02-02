@@ -1,7 +1,5 @@
-# Top200-SpotifyDailyMusicStreams-Global-
-A simple web scraping project with python, pandas and BeautifulSoup
+# Top200-SpotifyDailyMusicStreams-Web Scraping Project
 
-Spotify Global Daily Charts Web Scraping Project
 This project involves scraping, cleaning, and analyzing data from the Spotify Global Daily Charts website (https://kworb.net/spotify/country/global_daily.html). The goal is to extract song performance metrics, clean and process the data, and visualize insights using Python and Excel.
 
 Table of Contents
